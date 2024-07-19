@@ -1,0 +1,24 @@
+.idea/
+.vscode/
+data/*
+!data/gowalla.csv
+dataset/
+graph/
+log/
+model/
+src/__pycache__/
+src/baseline/
+src/project/*
+!src/project/model.py
+!src/project/tulam_main.py
+src/tools/__pycache__
+tmp/
+/*.py
+/*.csv
+/*.xlsx
+/*.docx
+/*.log
+/*.rar
+/*.pptx
+/LICENSE
+# !README.md
